@@ -1,5 +1,5 @@
-app_name = "qyass1"
-app_title = "Qyass1"
+app_name = "qyass2"
+app_title = "Qyass2"
 app_publisher = "IT Systematic"
 app_description = "Qyass App"
 app_email = "support@itsystematic.com"
