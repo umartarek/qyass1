@@ -1,2 +1,7 @@
-# qyass1
- 
+## Qyass
+
+Qyass App
+
+#### License
+
+mit
